@@ -1,3 +1,4 @@
-String nombre="Luis Juarez"
+String nombre="Luis"
+String apellido = "Juarez"
 
 system.out.println("Hola" + nombre);
